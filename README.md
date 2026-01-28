@@ -20,4 +20,4 @@ This demo was created to accompany an article that explains how to build bento-s
 
 Read the full article explaining how this layout was built:
 
-[Article Link Coming Soon](Link Here)
+[Building a Bento Grid Layout with Modern CSS Grid](https://www.wearedevelopers.com/en/magazine/682/building-a-bento-grid-layout-with-modern-css-grid-682)
